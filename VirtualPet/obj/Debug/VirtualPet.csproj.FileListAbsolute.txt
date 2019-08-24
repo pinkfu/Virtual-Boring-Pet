@@ -1,0 +1,11 @@
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.csprojAssemblyReference.cache
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.PetCreator.resources
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.Properties.Resources.resources
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.csproj.GenerateResource.cache
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.csproj.CoreCompileInputs.cache
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\bin\Debug\VirtualPet.exe.config
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\bin\Debug\VirtualPet.exe
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\bin\Debug\VirtualPet.pdb
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.exe
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.pdb
+C:\Users\lilmo\source\repos\VirtualPet\VirtualPet\obj\Debug\VirtualPet.YourPet.resources
